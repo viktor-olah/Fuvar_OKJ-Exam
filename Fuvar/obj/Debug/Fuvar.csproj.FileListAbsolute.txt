@@ -1,0 +1,8 @@
+G:\Saját meghajtó\Programozás\GIT\OKJ_Fuvar\Fuvar\bin\Debug\Fuvar.exe.config
+G:\Saját meghajtó\Programozás\GIT\OKJ_Fuvar\Fuvar\bin\Debug\Fuvar.exe
+G:\Saját meghajtó\Programozás\GIT\OKJ_Fuvar\Fuvar\bin\Debug\Fuvar.pdb
+G:\Saját meghajtó\Programozás\GIT\OKJ_Fuvar\Fuvar\obj\Debug\Fuvar.csproj.AssemblyReference.cache
+G:\Saját meghajtó\Programozás\GIT\OKJ_Fuvar\Fuvar\obj\Debug\Fuvar.csproj.SuggestedBindingRedirects.cache
+G:\Saját meghajtó\Programozás\GIT\OKJ_Fuvar\Fuvar\obj\Debug\Fuvar.csproj.CoreCompileInputs.cache
+G:\Saját meghajtó\Programozás\GIT\OKJ_Fuvar\Fuvar\obj\Debug\Fuvar.exe
+G:\Saját meghajtó\Programozás\GIT\OKJ_Fuvar\Fuvar\obj\Debug\Fuvar.pdb
